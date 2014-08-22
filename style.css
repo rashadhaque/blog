@@ -1,13 +1,13 @@
 .sidebar p{
-	color: Blue;
+	color: Brown;
 
-	font-family: arial
+	font-family: "arial";
 	
 }
 
 h1 {text-transform: uppercase;
 
-font-family: impact;
+font-family: "impact";
 
 font-size: 40px;
 
@@ -17,8 +17,12 @@ margin: 10px;
 
 h2 {text-transform: uppercase;
 
-font-family: impact;
+font-family: "impact";
+
+font-size: 25px;
+
+margin: 10px;
 
 }
 
-ul{font-family: verdana}
+ul{font-family: "verdana";}
