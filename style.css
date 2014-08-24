@@ -4,18 +4,20 @@ background-color: #E0ECF8
 }
 
 #top-menu { float: right;
+	border-bottom: 1px solid #000000;
 	background-color: #F8ECE0;
+
 	font-size: 20px;
-	width: 800px;
-	padding:20px 20px 20px 20px;
+	width: 780px;
+	padding:10px 10px 10px 10px;
 	display: inline-block;
-	margin-left:10px;
-	margin-right:10px; 
-	margin-top:10px; 
-	margin-bottom:10px;
    }
 
-.nav ul li{float:left;}
+.nav ul li{float:right;
+		
+			margin-right: 30px;
+
+}
 
 .sidebar p{
 	background-color: #A9BCF5;
