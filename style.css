@@ -5,8 +5,7 @@ background-color: #E0ECF8
 
 #top-menu { float: right;
 	border-bottom: 1px solid #000000;
-	background-color: #F8ECE0;
-
+	
 	font-size: 20px;
 	width: 780px;
 	padding:10px 10px 10px 10px;
@@ -19,7 +18,6 @@ background-color: #E0ECF8
 }
 
 .sidebar p{
-	background-color: #A9BCF5;
 	color: Brown;
 	font-family: "arial";
 
@@ -47,12 +45,10 @@ margin: 10px;
 }
 
 h2 {text-transform: uppercase;
-background-color: #CEF6F5;
 font-family: "impact";
-
+padding:0px 10px 10px 10px;
 font-size: 25px;
-
-margin: 10px;
+margin: 18px;
 
 }
 
