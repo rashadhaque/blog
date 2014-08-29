@@ -4,10 +4,11 @@
 	}
 
 #top-menu { border-bottom: 1px dotted blue;
-	font-size: 20px;
-	width: 940px;
-	padding:10px 10px 10px 5px;
+	font-size: 18px;
+	width: 700px;
+	padding:0px 0px 0px 0px;
 	display: inline-block;
+	float:right;
   }
 
 
@@ -16,7 +17,7 @@
 .nav ul li{text-transform: uppercase;
 			float:right;
 			list-style-type: none;
-			margin-right: 25px;
+			margin-right: 20px;
 			font-weight: bold;
 		}
 
