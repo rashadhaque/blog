@@ -1,18 +1,24 @@
 .header{border-bottom: 3px solid blue;
-background-color: #E0ECF8;
-padding:10px 10px 10px 10px;
-}
+		background-color: #E0ECF8;
+		padding:10px 10px 10px 10px;
+	}
 
-#top-menu { float: right;
-	border-bottom: 1px solid #000000;
-		font-size: 20px;
-	width: 780px;
-	padding:10px 10px 10px 10px;
+#top-menu { border-bottom: 1px dotted blue;
+	font-size: 20px;
+	width: 940px;
+	padding:10px 10px 10px 5px;
 	display: inline-block;
   }
 
-.nav ul li{float:right;
-			margin-right: 30px;}
+
+.clearfix{clear:both;}
+
+.nav ul li{text-transform: uppercase;
+			float:right;
+			list-style-type: none;
+			margin-right: 25px;
+			font-weight: bold;
+		}
 
 .nav a:hover {
 	border-bottom: 10px solid red;}
@@ -22,6 +28,11 @@ padding:10px 10px 10px 10px;
 	font-family: "arial";
 }
 
+.container {width:960px;
+			margin-right: auto; 
+			margin-left: auto;
+
+}
 
 .sidebar {
 	clear: both;
@@ -30,14 +41,14 @@ padding:10px 10px 10px 10px;
 
 .old-post {
  float: left;
- background-color: #CEF6F5;
  padding:3px 3px 3px 3px;
+ margin-top: 2px;
+ width:220px;
 }
 
 #content {
    float: right;
-    width: 800px;
-    height: 5px;
+    width: 700px;
     margin: 5px;
 
 }
@@ -54,7 +65,7 @@ h2 {text-transform: uppercase;
 font-family: "impact";
 padding:0px 3px 3px 3px;
 font-size: 25px;
-margin: 10px;
+margin: 0px;
 
 }
 
