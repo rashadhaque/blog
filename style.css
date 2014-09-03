@@ -39,6 +39,12 @@
 
 }
 
+
+#footer { width:960px;
+		margin-right: auto; 
+		margin-left: auto;
+}
+
 .sidebar {
 	clear: both;
 	display: block;}
