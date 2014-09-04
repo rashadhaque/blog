@@ -43,6 +43,8 @@
 #footer { width:960px;
 		margin-right: auto; 
 		margin-left: auto;
+		width: 960px;
+		height: 200px;
 }
 
 .sidebar {
