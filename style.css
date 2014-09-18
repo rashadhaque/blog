@@ -17,7 +17,12 @@
 			margin-top: 5px;
 			}
 
-p img {border-radius: 10px;}
+.container p img {
+				text-align: center;
+				width: 25px;
+				height: 25px
+				}
+#contact p {text-align: center;}
 
 #header {border-bottom: 3px solid grey;
 		background-color:none;
